@@ -9,15 +9,15 @@
 ```
 ## example：
 > origin full matrix : <br>
-![avatar](example/full_mat.png)
+<center> ![avatar](example/full_mat.png) </center>
 
 > target regions : <br>
-![avatar](example/sparse_mat.png)
+<center> ![avatar](example/sparse_mat.png) </center>
 
 > pull the target regions together: <br>
 > merged_with_gridlines: <br>
-![avatar](example/merged_with_gridlines.png)
+<center> ![avatar](example/merged_with_gridlines.png) </center>
 
 > merged_without_gridlines: <br>
-![avatar](example/merged_without_gridlines.png)
+<center> ![avatar](example/merged_without_gridlines.png) </center>
 
