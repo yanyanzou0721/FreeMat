@@ -18,6 +18,6 @@
 > merged_with_gridlines: 
 ![avatar](example/merged_with_gridlines.png)
 
->merged_without_gridlines:
-![avatar](merged_without_gridlines.png)
+> merged_without_gridlines:
+![avatar](example/merged_without_gridlines.png)
 
