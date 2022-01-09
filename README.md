@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **FreeMat**
 ## **this script is to get the a group of submatrix and refresh the chromosome id**
 
@@ -16,11 +15,9 @@
 ![avatar](example/sparse_mat.png)
 
 > pull the target regions together:
-> merged_with_gridlines 
+> merged_with_gridlines: 
 ![avatar](example/merged_with_gridlines.png)
 
->merged_without_gridlines
+>merged_without_gridlines:
 ![avatar](merged_without_gridlines.png)
-=======
-# FreeMat
->>>>>>> b3d8f81d8553eaed84887b4b77022d2e4c1e9e4e
+
